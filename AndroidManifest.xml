@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rehanr.aatmatrisha" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="Aatmatrisha"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".starting_page_timer"
+            android:label="Aatmatrisha"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".first_menu_page"
+            android:label="@string/title_activity_first_menu_page" >
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Page_2"
+            android:label="@string/title_activity_page_2" >
+        </activity>
+        <activity
+            android:name=".SignUp"
+            android:label="@string/title_activity_sign_up" >
+        </activity>
+        <activity
+            android:name=".Nav_1"
+            android:label="@string/title_activity_nav_1" >
+        </activity>
+        <activity
+            android:name=".Technical_Drawer"
+            android:label="@string/title_activity_technical__drawer" >
+        </activity>
+        <activity
+            android:name=".Hive"
+            android:label="Aatmatrisha"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+        </activity>
+        <activity
+            android:name=".biz_quiz"
+            android:label="@string/title_activity_biz_quiz" >
+        </activity>
+        <activity
+            android:name=".sport_quiz"
+            android:label="@string/title_activity_sport_quiz" >
+        </activity>
+        <activity
+            android:name=".harry_quiz"
+            android:label="@string/title_activity_harry_quiz" >
+        </activity>
+        <activity
+            android:name=".young_manager"
+            android:label="@string/title_activity_young_manager" >
+        </activity>
+        <activity
+            android:name=".ingeneer"
+            android:label="@string/title_activity_ingeneer" >
+        </activity>
+        <activity
+            android:name=".junkyard"
+            android:label="@string/title_activity_junkyard" >
+        </activity>
+        <activity
+            android:name=".bizat14"
+            android:label="@string/title_activity_bizat14" >
+        </activity>
+        <activity
+            android:name=".photo_talk_ramesh"
+            android:label="@string/title_activity_photo_talk_ramesh" >
+        </activity>
+        <activity
+            android:name=".pixil_this"
+            android:label="@string/title_activity_pixil_this" >
+        </activity>
+        <activity
+            android:name=".layers"
+            android:label="@string/title_activity_layers" >
+        </activity>
+        <activity
+            android:name=".tag_the_story"
+            android:label="@string/title_activity_tag_the_story" >
+        </activity>
+        <activity
+            android:name=".Login_main"
+            android:label="@string/title_activity_login_main" >
+        </activity>
+        <activity
+            android:name=".Connection_Manager"
+            android:label="@string/title_activity_connection__manager" >
+        </activity>
+        <activity
+            android:name=".nritya_virasat"
+            android:label="@string/title_activity_nritya_virasat" >
+        </activity>
+        <activity
+            android:name=".street"
+            android:label="@string/title_activity_street" >
+        </activity>
+        <activity
+            android:name=".junoon"
+            android:label="@string/title_activity_junoon" >
+        </activity>
+        <activity
+            android:name=".at_got_talent"
+            android:label="@string/title_activity_at_got_talent" >
+        </activity>
+        <activity
+            android:name=".art_race"
+            android:label="@string/title_activity_art_race" >
+        </activity>
+        <activity
+            android:name=".body_painting"
+            android:label="@string/title_activity_body_painting" >
+        </activity>
+        <activity
+            android:name=".sketch_at"
+            android:label="@string/title_activity_sketch_at" >
+        </activity>
+        <activity
+            android:name=".hogathon"
+            android:label="@string/title_activity_hogathon" >
+        </activity>
+        <activity
+            android:name=".minute_to_win"
+            android:label="@string/title_activity_minute_to_win" >
+        </activity>
+        <activity
+            android:name=".wizard_chess"
+            android:label="@string/title_activity_wizard_chess" >
+        </activity>
+        <activity
+            android:name=".slamball"
+            android:label="@string/title_activity_slamball" >
+        </activity>
+        <activity
+            android:name=".jam"
+            android:label="@string/title_activity_jam" >
+        </activity>
+        <activity
+            android:name=".arnab_news"
+            android:label="@string/title_activity_arnab_news" >
+        </activity>
+        <activity
+            android:name=".wordpouri"
+            android:label="@string/title_activity_wordpouri" >
+        </activity>
+        <activity
+            android:name=".view_booked_events"
+            android:label="@string/title_activity_view_booked_events" >
+        </activity>
+    </application>
+
+</manifest>

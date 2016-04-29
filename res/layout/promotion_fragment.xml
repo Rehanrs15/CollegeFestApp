@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ll"
+    android:weightSum="1"
+    android:background="#e3faf1"
+    >
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Aatmatrisha"
+    android:textSize="35dp"
+    android:textColor="#2E4053"
+    android:gravity="center"
+    android:layout_marginTop="100dp"
+    android:layout_weight="0.14"
+    android:id="@+id/t1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2016"
+        android:id="@+id/t2"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.14"
+        android:gravity="center"
+        android:layout_marginBottom="15dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/promotion"
+        android:id="@+id/textView"
+        android:layout_weight="0.02"
+        android:padding="15dp"
+        android:textStyle="italic"
+        android:background="#e3faf1"
+        android:layout_marginTop="20dp"
+        android:textColor="#2E4053"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/promotion1"
+        android:id="@+id/textView2"
+        android:layout_weight="0.11"
+        android:gravity="center"
+        android:background="#e3faf1"
+        android:textStyle="bold"
+        android:textColor="#2E4053"
+        />
+
+    <Button
+        android:layout_width="130dp"
+        android:layout_height="15dp"
+        android:text="Invite"
+        android:id="@+id/button2"
+        android:layout_gravity="center_horizontal"
+        android:background="@xml/round_button"
+        android:layout_weight="0.14"
+       android:textSize="18dp"
+        android:textColor="#fff"
+        android:layout_marginTop="15dp"
+        />
+
+</LinearLayout>

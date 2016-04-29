@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">aatmatrisha</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menubar_activity">Home</string>
+
+
+
+
+
+    <string name="title_activity_mainmenu_drawer">mainmenu_drawer</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_first_menu_page">HOME</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_upactivity">SignUpactivity</string>
+    <string name="title_activity_page_2">Page_2</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_promotion">promotion</string>
+
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Technical</item>
+        <item>Cultural</item>
+        <item>Photography</item>
+        <item>Literary</item>
+        <item>FineArts</item>
+        <item>Informals</item>
+        <item>Promotions</item>
+        <item>Help</item>
+        <item>Logout</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/frag_user</item>
+        <item>@drawable/tech_icon</item>
+        <item>@drawable/culturalevent_logo</item>
+        <item>@drawable/photo_graphy_icon</item>
+        <item>@drawable/litrerary_icon</item>
+        <item>@drawable/cultural_logo</item>
+        <item>@drawable/ic_menu_check1</item>
+        <item>@drawable/prom</item>
+        <item>@drawable/help</item>
+        <item>@drawable/logout1</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_nav_1">Nav_1</string>
+    <string name="title_activity_technical__drawer">Technical_Drawer</string>
+    <string name="title_activity_hive">Hive</string>
+
+
+
+
+
+
+    <string name="promotion">
+        PES UNIVERSITY is celebrating its Annual Techno-Cultural Fest Aatmatrisha in April 2016.
+    </string>
+       <string name="promotion1">
+        Click the Button to Invite..!
+    </string>
+    <string name="title_activity_biz_quiz">biz_quiz</string>
+    <string name="title_activity_sport_quiz">sport_quiz</string>
+    <string name="title_activity_harry_quiz">harry_quiz</string>
+    <string name="title_activity_young_manager">young_manager</string>
+    <string name="title_activity_ingeneer">ingeneer</string>
+    <string name="title_activity_junkyard">junkyard</string>
+    <string name="title_activity_bizat14">bizat14</string>
+
+    <string name="junkyard">\n\nRegistration for the event should be done beforehand, however on spot registrations shall also be kept open.\nAll students are required to carry their college ID cards
+\nThe teams can have members of different colleges\n For eliminations teams have to appear for test as single entity. Each team will be given one question paper and one answer paper \nEach team can consist of 4 to 5 members
+\nThe organizers reserve all rights todisqualify any team for usage of unfair means. Unfair means include\n1.Discussions with members of other teams
+\n2.Usage of internet
+\n3.Taking help from faculty members of the college, non-participating students or organizers of the event
+\nIn case of any discrepancies, decision of the organizers shall be considered final and binding for all
+\nThe teams have to complete the prescribed task in given time and using only the materials provided. Violation of this rule may lead to immediate disqualification
+\n\nFORMAT\n\n
+1.Eliminations - All the teams have to first pass the hurdle of eliminations. It will be a written test of questions to assess each participant\'s aptitude. Solution to the quiz sheet shall lead them to a location where they shall be instructed about the next round.
+\n\n2.Second stage eliminations - First 15 teams to clear the eliminations will move to round two. Here they have to complete a given task within a stipulated time. The problem statement and the required materials will be provided at the time of event.
+\n\n3.Finals - Four teams with the best results at the end of the second round shall qualify for the finals. In this, they will be required to complete another task, the details and materials for which shall be provided at the time of the event. They will be required to use scrap to build an object.</string>
+
+
+    <string name="bizat14">\n\n"Overview round: The contestants will be required to submit an abstract idea of their products/service. They can do so by filling the form on team basis. The form requires the participant to fill their team- member details, along with detailed idea description as per the questionnaire and statistics for the coming years. The entries will be reviewed by TIE.
+\nIdea presentation and Prototyping rounds: The selected team that successfully go through, will have to present their ideas. The teams will have a formal presentation (with some aid, such as slides) laying out the details of the product and it’s impact, followed by the Q and A session where the delegates and the other participants cross question the team.</string>
+
+
+    <string name="ingeneer">\n\nIngeneer - Quest for the Ingenious Engineer is the Flagship technical event of Aatmatrisha 2014. This event will test budding engineers on their problem solving skills and fundamental engineering concepts. It will provide them with a platform to put their acquired knowledge to practice whilst being a fun and competitive environment. The rounds will be a test of their knowledge from all major engineering fields, be it computer science, electrical, mechanical, electronic or bio-technology. We are looking for JACK OF ALL TRADES HERE (A master of as many as possible.)
+\n\nFORMAT\n\n
+Round 1: An interdisciplinary quiz paper consisting of workable questions. The warm-up period, so to say.\n\n
+Round 2 and 3: Teams making past round 1 will be tested on their multidisciplinary skills, from intriguing code wars to hands on circuit debugging, all in action packed couple of hours. Detailed structure for these rounds to be declared on event day.</string>
+
+    <string name="young">\n\nThe events “Young Managers” will create a purpose to all managerial aspirants. A sequence of business case studies will be given to a ‘Team of 2’, from which contenders should analyse, brain storm-the innovative methods to solve the cases. The cases studies may involve: Time management, Team building, Leadership, Optimization techniques, Risk management, Customer modelling etc.</string>
+    <string name="title_activity_photo_talk_ramesh">photo_talk_ramesh</string>
+    <string name="title_activity_pixil_this">pixil_this</string>
+
+    <string name="photo_talk">\n\nExilant Technologies Private Limited is a software services company headquartered in Bengaluru, India. It was started in 2004 by seven IT professionals earlier working with Infosys. It provides software products for various industry verticals viz manufacturing, trading, hi-tech, healthcare, pharmaceuticals, retail, banking, insurance, finance, textiles, apparel, energy and utilities, transportation and logistics, construction, dairy and food processing.
+    \n\nFounders	Ramesh Adkoli, Raghu Bhandi,Sajan Mathew,Sreenath Murthy, Ranga Narayanan, Vasudeva Rao, Raghavan Srinivasan</string>
+
+    <string name="pixil">\n\nIt\'s a theme based photography competition. Theme will be given on the spot and a time limit of three hours will be given.
+\n\nPhotographs have to be clicked according the theme in the PES University campus only.</string>
+    <string name="title_activity_layers">layers</string>
+
+    <string name="layers">\n\nA contest where your photoshop skills will be tested.\n\n
+Participants need to bring their own laptops with photoshop installed in it.</string>
+
+    <string name="title_activity_tag_the_story">tag_the_story</string>
+
+    <string name="tag_the_story">\n\nSo you think you can write an amazing story? And your friends think alike. But, what if we team you up with your friends? Divided you stand or fall? Let your story say it all. \n\nOne person, at a time, writes the story based on the theme. The other person(s) in the team need to continue the same once their turn arrives.</string>
+
+    <string name="at_home">\n\nAatmaTrisha, known to students across Karnataka as AT, is the annual techno-cultural festival of PES University, and the culmination of its impressive range of student activities; which include 3 dance teams (Sanskriti, Pulse, Trance), Sarang, Pitch Please, the Quotient Quiz Club, the Pixels photography club, the Mad-Ads team and the street play troupe Nautanki, boast team members who have continued their association with their art at a professional level.
+\n\nAlso acclaimed internationally are the technical teams-\nTeam PACE\nTeam HAYA\nTeam Aeolus.\n\nPapyrus and Éclat march ahead with the literary flag keeping the campus up to date.\n\nThe iCare group is the flagship bearer of social responsibility.\n\nIEEE PESIT, PES Open Source Community, and Student Nokia Developer keep the circuits charged and the code connected.\n\nNew members adding to the growing cultural at PES University include talk+, CSR club, and E-cell.</string>
+
+    <string name="about_pes">\n\nPES University (formerly PES Institute of Technology) came into existence in 1988 as a flagship institute under PES.\n\nPES University offers and facilitates academic excellence, leadership qualities, nurturing environment and offers cutting edge infrastructure - everything a student needs to succeed.\n\nThe unique educational system at PESIT ensures that students gain not only in-depth knowledge in their chosen area of specialization, but also a holistic set of skills that will equip them to face the real world.</string>
+    <string name="title_activity_login_main">Login_main</string>
+    <string name="title_activity_connection__manager">Connection_Manager</string>
+    <string name="title_activity_nritya_virasat">nritya_virasat</string>
+    <string name="title_activity_street">street</string>
+    <string name="title_activity_junoon">junoon</string>
+    <string name="title_activity_at_got_talent">at_got_talent</string>
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="hogathon">\n\n1. Participants are expected to hog on stuff what is given to them\n2. One minute is allotted to each participant for completing the task\n3. Each round is elimination round with difficulty increasing considerably as each round unfolds</string>
+
+    <string name="wizard">\n\n1. General Chess rules apply\n2. Played with life-size pieces and 30 seconds allotted for each move\n3. Each match is knockout</string>
+
+    <string name="slamball">\n\n1. Games are played in four 5-minute quarters, unlike the 12 minute quarters\n2. The game commences with a "bounce-off" in which the ball is bounced at center court\n3. The ball must reach its apex uninterrupted, at which point the players are allowed to "check" each other\n4. One rolling sub is allowed</string>
+
+    <string name="minute">\n\n1. An individual event with 60 seconds allotted for each task\n2. Not completing the task in 60 seconds results in elimination\n3. Complete the task and you move up the ladder</string>
+
+    <string name="art_race">\n\n1. No more than two in a team\n2. Participants must be able to finish the task in the allotted time\n3 Details of the task to perform will be briefed on spot\n4. All materials needed for the event will be provided\n5. Participants must report to the venue 15 minutes before time</string>
+
+    <string name="body_painting">\n\n1. Two in a team (One painter, one model)\n2. Theme will be given on spot\n3. Allotted time is 2 hours per team\n4. Participants must carry whatever they need</string>
+
+
+    <string name="sketch_at">\n\n1. Individual participation\n2. Allotted time is 2 hours\n3. Participants must get the materials they need.(Paper will be provided)\n4. Participants need to sketch a near accurate version of what fascinates them in college.(it can be a object, a scene, a person or anything you see)</string>
+
+    <string name="nritya">\n\n1. The performance can be Indian contemporary. Performance of different classical dance forms within the same group is permitted.\n2. The teams are requested to send a video of their dance to culturalat14@gmail.com. They can also send their previous performance video or the link of their uploaded YouTube video.\n3.The selected teams will be performing on the day of the fest.\n4. Time limit for the finals- 5+1 mins (it includes the time to set up the stage)\n5. This event is under full discretion of the organizers and under all circumstances the organizers’ word is final.</string>
+
+    <string name="street">\n\nRound 1: Showcase round\n\nEach team is given 3-4 minutes to perform the choreographed sequence based on which they will be shortlisted for round 2\n\nRound 2 : Face Off Round (Between shortlisted teams)
+\n\n1. Final battle goes on for 5-20 minutes
+\n2. The rules will be announced on spot
+\n3. Organizing team holds the right to change the rules at any point of time.</string>
+    <string name="junoon">\n\n 1.The teams are requested to send a video of their dance to culturalat14@gmail.com
+\n2.They can also send their previous performance video or the link of their uploaded YouTube video.
+\n3. The selected teams will be performing on the day of the fest
+\n4. Time limit for the finals- 5+1 mins(includes the time to set up the stage)
+\n5. This event is under full discretion of the organizers and under all circumstances the organizers’ word is final</string>
+
+    <string name="at_got">\n\nRound 1- Elimination
+\n1. Participants are to perform for a short duration of time
+\n2. Participants are allowed to showcase any act related to any art
+\n3. Based on their performance, they will be shortlisted to round 2\n\nRound 2- Format will be announced at the end of elimination round
+\nThis event is under full discretion of the organizers and under all circumstances the organizers’ word is final</string>
+
+    <string name="jam">\n\n\"Just a moment? Just another minute?\" No, every moment of that minute, every second counts. Don\'t hesitate, deviate or repeat yourself or repeat yourself. Prove yourself and take the extempore crown. Show us that you can give the best RJ in town a run for their money!\n\nParticipants will be divided into random groups by the JAM Master and a certain number of people from each group will advance to the finals depending on the number of participants. The differentntly themed rounds will be explained on the spot by JAM Master.</string>
+
+    <string name="arnab">\n\n\"The nation demands an answer\" If this question stirs up a thousand emotions in you, you better show up at Arnab\'s news-hour and debate it out with all your might and arguments as our very own Arnab decides where the buck stops. \n\nTopic will be given well before the debate starts. The speaker has the right to choose to be for or against the topic initailly, but may have to switch sides on judge\'s instruction. The criterion for scoring will be decided by judges. A prize each for against and for!</string>
+
+    <string name="wordpourri">\n\nDoes your team have what it takes to be the puzzle champion? Crosswords, pictures, words, wit. It\'s the AT Wordpourri - the ultimate melting pot!\n\nWritten Preliminary Round (involving word plays and puzzles) followed by an eight team final which includes 20 Questions, DC, Taboo, Pictionary</string>
+    <string name="title_activity_art_race">art_race</string>
+    <string name="title_activity_body_painting">body_painting</string>
+    <string name="title_activity_sketch_at">sketch_at</string>
+    <string name="title_activity_hogathon">hogathon</string>
+    <string name="title_activity_minute_to_win">minute_to_win</string>
+    <string name="title_activity_wizard_chess">wizard_chess</string>
+    <string name="title_activity_slamball">slamball</string>
+    <string name="title_activity_jam">jam</string>
+    <string name="title_activity_arnab_news">arnab_news</string>
+    <string name="title_activity_wordpouri">wordpouri</string>
+    <string name="title_activity_view_booked_events">view_booked_events</string>
+</resources>

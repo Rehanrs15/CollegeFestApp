@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Reach out to us !"
+        android:id="@+id/textView6"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textSize="35dp"
+        android:textColor="#5a636e"
+        android:padding="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/textView7"
+        android:layout_alignStart="@+id/textView7"
+        android:layout_marginTop="10dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView9"
+        android:src="@drawable/map"
+        android:layout_below="@+id/textView6"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="100 Feet Ring Road, Banashankari III "
+        android:id="@+id/textView7"
+        android:gravity="center"
+        android:textColor="#5a636e"
+        android:layout_below="@+id/imageView9"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:paddingTop="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Stage Bangalore,Karnataka"
+        android:id="@+id/textView9"
+        android:gravity="center"
+        android:textColor="#5a636e"
+        android:layout_below="@+id/textView7"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Telephone: +91 80 2672 1983"
+        android:id="@+id/textView8"
+        android:textColor="#5a636e"
+        android:layout_below="@+id/textView9"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Email-aatmatrisha2016@gmail.com"
+        android:id="@+id/textView20"
+        android:layout_below="@+id/textView8"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="5dp"
+        android:textColor="#5a636e"/>
+
+
+</RelativeLayout>

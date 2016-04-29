@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#ffffff"
+    tools:context="com.example.rehanr.aatmatrisha.LoginActivity">
+
+
+
+  <ImageView
+      android:layout_width="42dp"
+      android:layout_height="62dp"
+      android:src="@drawable/pes"
+      android:id="@+id/imageView"
+      android:layout_marginTop="22dp"
+      android:layout_alignRight="@+id/editText2"
+      android:layout_alignEnd="@+id/editText2"
+      android:layout_alignParentLeft="true"
+      android:layout_alignParentStart="true" />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="username"
+        android:ems="10"
+        android:id="@+id/editText2"
+        android:layout_below="@+id/imageView"
+        android:layout_alignLeft="@+id/editText"
+        android:layout_alignStart="@+id/editText"
+        android:textColorHint="#808080"
+        android:textColor="#000000"
+        android:backgroundTint="#000000"
+        android:layout_marginTop="30dp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:hint="email-id"
+        android:id="@+id/editText"
+        android:textColorHint="#808080"
+        android:textColor="#000000"
+        android:backgroundTint="#000000"
+        android:layout_below="@+id/editText2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:hint="password"
+        android:id="@+id/editText3"
+        android:layout_below="@+id/editText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColorHint="#808080"
+        android:textColor="#000000"
+        android:backgroundTint="#000000"
+        android:layout_marginTop="10dp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:hint="mobile"
+        android:textAlignment="center"
+        android:ems="10"
+        android:id="@+id/editText4"
+        android:layout_below="@+id/editText3"
+        android:layout_marginTop="16dp"
+        android:layout_alignLeft="@+id/editText3"
+        android:layout_alignStart="@+id/editText3"
+        android:layout_alignRight="@+id/editText3"
+        android:layout_alignEnd="@+id/editText3"
+        android:textColorHint="#808080"
+        android:textColor="#000000"
+        android:backgroundTint="#000000"/>
+
+
+
+
+
+    <Button
+        android:layout_width="5dp"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:layout_marginBottom="85dp"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/editText4"
+        android:layout_alignStart="@+id/editText4"
+        android:layout_alignRight="@+id/editText4"
+        android:layout_alignEnd="@+id/editText4"
+        android:background="@xml/round_button"
+
+
+        />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText5"
+            android:layout_below="@+id/editText4"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="14dp"
+            android:inputType="text"
+            android:hint="college"
+            android:textColorHint="#808080"
+            android:backgroundTint="#000000"
+            android:ems="10"
+            android:textColorHighlight="#000000"
+            android:textColor="#000"/>
+
+
+</RelativeLayout>
+
